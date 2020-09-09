@@ -37,7 +37,7 @@ y=6
 if x==y:
 	print("iguais")
 elif y>x:
-	print("y maior que x")
+	print("mmmmmmmmm")
 elif x<y:
 	print("x menor que y")	
 else:
